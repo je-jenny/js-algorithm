@@ -1,3 +1,9 @@
+/** hackerrank 
+ * bigger is greater
+ * https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true
+ * 
+ */
+
 // 'use strict';
 
 // const fs = require('fs');
